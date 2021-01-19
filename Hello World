@@ -1,0 +1,4 @@
+y = input ("What is your name: ")
+print(y)
+print('your name is ' + y)
+
